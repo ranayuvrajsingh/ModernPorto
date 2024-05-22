@@ -87,8 +87,8 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Modern Nextjs Website",
-    des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    title: "Modern Stellar Styles",
+    des: "Stellar Styles is a sleek web app with advanced search, secure payments, and a robust admin dashboard for managing inventory and orders. Full-stack for optimal performance and scalability",
     img: "/Ecoom.jpg",
     iconLists: [
       "/re.svg",
@@ -102,8 +102,8 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Modern Nextjs Website",
-    des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    title: "CityScope",
+    des: "Cityscope is a web app offering tours, travel insights, city glimpses of Rajasthan, and daily news and articles by city. It features secure payments and scalability for optimal performance.",
     img: "CityScopeCrop.png",
     iconLists: [
       "/re.svg",
@@ -117,8 +117,8 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Modern Nextjs Website",
-    des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    title: "IShowSpeed Modern Reactjs",
+    des: "iShowSpeed is a responsive web app showcasing car models. It offers a sleek, user-friendly design for browsing and purchasing vehicles, with secure payments and scalability.",
     img: "/iShowSpeed.png",
     iconLists: [
       "/nextjs.svg",
