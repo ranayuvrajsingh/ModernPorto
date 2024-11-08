@@ -58,7 +58,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Yuvraj, a Next.js Developer based in India{" "}
+            Hi! I&apos;m Yuvraj, a Java Developer based in India{" "}
             <Image src={"/India.png"} alt={""} width={38} height={38}></Image>.
           </p>
 
