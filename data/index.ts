@@ -207,15 +207,15 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+  title: "Java Backend Development",
+  desc: "Designed and developed backend services using Java and Spring Boot, ensuring high performance and scalability for both web and mobile applications.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Freelance Java Dev Project",
+    desc: "Led the dev of a Java Development for a client, from initial concept to deployment on Cloud.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
